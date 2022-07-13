@@ -1,0 +1,30 @@
+.banner{
+ background-image: url(assignment html/banner.jpg);
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.service{
+    text-align: center;
+}
+.img{
+    max-width: 100%;
+}
+.col{
+    padding: 7px;
+}
+.card-title1{
+    text-align: center;
+}
+.card-text1{
+    text-align: center;
+}
+.btn btn-warning{
+    text-align: center;
+}
